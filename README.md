@@ -10,7 +10,7 @@
 * [Heroku site](#heroku)
 
 ## Description
-This application is a book site which allows users to find and save books. My job for this assignment is converting it from RESTful API practices to a GraphQL API.
+This app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline
 ## Installation
 Install starter code and deploy to Heroku
 ## Usage
@@ -21,10 +21,10 @@ Keira Lobatos
 ## Github
 [Github](github.com/KeiraL000)
 ## Repo
-[Github repo](https://github.com/KeiraL000/Book-search-engine.git)
+[Github repo](https://github.com/KeiraL000/PWA-text-editor.git)
 ## Email
 You can reach me at my email: Keira5466@yahoo.com
 
 ## Heroku
-
+N/A
 [Not working as of now]
